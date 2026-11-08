@@ -22,7 +22,7 @@ Validate input against expected formats where appropriate, but rely primarily on
 
 ## Lab notes
 
-Each note summarizes the challenge concept and practice objective without giving a solution or exploit steps.
+Each lab note contains a brief general explanation of the topic, the challenge idea, concise steps from the official PortSwigger solution when it is published, and the payloads or key values shown in that walkthrough. Unpublished solutions are identified rather than inferred.
 
 - [Lab: Reflected XSS protected by CSP, with CSP bypass](labs/lab-csp-bypass.md)
 - [Lab: Reflected XSS protected by very strict CSP, with dangling markup attack](labs/lab-very-strict-csp-with-dangling-markup-attack.md)

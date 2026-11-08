@@ -1,6 +1,6 @@
 # PortSwigger Web Security Academy Notes
 
-A structured study reference for **PortSwigger Web Security Academy**. Each topic folder contains a standalone overview, followed by a `labs/` folder with one concise note per lab describing its concept and learning objective. These notes intentionally do not include lab solutions or exploit payloads.
+A structured study reference for **PortSwigger Web Security Academy**. Each topic folder contains a standalone overview and a `labs/` folder. Each lab note gives a short general explanation of the vulnerability, the lab idea, concise steps from PortSwigger’s official solution when published, and the payloads or key values shown there.
 
 This snapshot covers **31 Academy sections and 272 labs** listed in the official topic index and sitemap at the time of collection. Counts can change as PortSwigger adds or updates labs.
 
@@ -52,4 +52,4 @@ Read the topic overview first, then open an individual file under that topic’s
 
 ## Scope
 
-For educational use and authorized testing only. Practice in the Academy labs or on systems you are explicitly authorized to test. These notes summarize public Academy material and are not official PortSwigger documentation.
+For educational use and authorized testing only. Use the payloads only in the corresponding Academy labs or on systems you are explicitly authorized to test. The solution notes are concise summaries of PortSwigger’s published walkthroughs; some newer labs do not yet have a written official solution. These notes are not official PortSwigger documentation.
